@@ -6,6 +6,7 @@
     width:100%;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     padding:20px;
+    background-color:antiquewhite
 }
 h1{
     text-align:center;
@@ -52,6 +53,11 @@ form{
 
 }
 #imagedisplay img{
-    width:60%;
+    width:54.5%;
     height:300px;
+}
+#belownavbar{
+    width:100%;
+    height:auto;
+    background-color:lightcoral
 }
