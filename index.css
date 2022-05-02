@@ -1,0 +1,57 @@
+*{
+    margin:0;
+
+}
+#navbar{
+    width:100%;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding:20px;
+}
+h1{
+    text-align:center;
+    color:teal;
+    margin-bottom:20px;
+}
+form{
+    width:30%;
+    margin:auto;
+}
+#city{
+    padding:10px;
+    width:300px;
+}
+#submit{
+    padding:10px;
+    background:white;
+    border:1px solid rgb(6, 6, 112);
+}
+
+#container1 {
+    width:100%;
+    padding:20px;
+}
+#container1 div{
+    width:30%;
+    margin:auto;
+    padding:20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color:lightblue
+
+}
+#container1 div>p{
+    font-weight:bold;
+    color:darkblue;
+    margin-left:120px;
+    margin-bottom:20px;
+
+}
+#imagedisplay{
+    width:60%;
+    margin:auto;
+    margin-left:530px;
+
+}
+#imagedisplay img{
+    width:60%;
+    height:300px;
+}
